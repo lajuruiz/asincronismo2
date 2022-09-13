@@ -1,0 +1,19 @@
+{
+  "name": "asincronismo2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lajuruiz/asincronismo2.git"
+  },
+  "author": "Laura Ruiz laurajulianaru@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lajuruiz/asincronismo2/issues"
+  },
+  "homepage": "https://github.com/lajuruiz/asincronismo2#readme"
+}
