@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "callback": "node curso-asincronismo/src/callback/challenge.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/lajuruiz/asincronismo2/issues"
   },
-  "homepage": "https://github.com/lajuruiz/asincronismo2#readme"
+  "homepage": "https://github.com/lajuruiz/asincronismo2#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.10",
+    "xmlhttprequest": "^1.8.0"
+  },
+
+  "type": "module"
 }
